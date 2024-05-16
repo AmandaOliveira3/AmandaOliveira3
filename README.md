@@ -9,7 +9,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" width="40" height="40" />          
 </div>
 
 
@@ -29,5 +29,5 @@
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmandaOliveira3&style=for-the-badge&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=AmandaOliveira3&style=for-the-badge&color=blueviolet" alt=""/>
 </div>
